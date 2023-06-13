@@ -20,7 +20,7 @@ You can create multiples overlay widgets by making folders inside the `public` f
    - Edit `spotifyCredentials/config.json` with the editor of your choice
    - Add the client ID and client Secret you got on the Spotify website
    - Run the server with `npm start`
-   - Go to [http://localhost:8080/](http://localhost:8888/spotify/)
+   - Go to [http://localhost:8080/](http://localhost:8080/)
    - Authentificate with your spotify account
    - Copy the refresh token display. (this token is a global accces to your spotify account, ***DO NOT SHARE***)
    - Close the server

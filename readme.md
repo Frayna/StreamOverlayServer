@@ -11,7 +11,7 @@ You can create multiples overlay widgets by making folders inside the `public` f
 ### Installation
 
 1. **Create an authentificated app on Spotify**
-   - Follow the documentation at [https://developer.spotify.com/documentation/web-api/concepts/apps]()
+   - Follow the documentation at [https://developer.spotify.com/documentation/web-api/concepts/apps](https://developer.spotify.com/documentation/web-api/concepts/apps)
    - Don't forget to add `http://localhost:8080/callback` to you app redirect URIs
    - Get your credentials (client id and client secret)
 2. **Get the refresh token app**
@@ -20,7 +20,7 @@ You can create multiples overlay widgets by making folders inside the `public` f
    - Edit `spotifyCredentials/config.json` with the editor of your choice
    - Add the client ID and client Secret you got on the Spotify website
    - Run the server with `npm start`
-   - Go to [http://localhost:8080/]()
+   - Go to [http://localhost:8080/](http://localhost:8888/spotify/)
    - Authentificate with your spotify account
    - Copy the refresh token display. (this token is a global accces to your spotify account, ***DO NOT SHARE***)
    - Close the server
@@ -35,5 +35,5 @@ You can create multiples overlay widgets by making folders inside the `public` f
 1. **Run the server**
    Start the server `npm start`
 2. **Play a music on spotify (with any spotify client, web or desktop)**
-3. **Go to** [http://localhost:8888/spotify/]()
+3. **Go to** [http://localhost:8888/spotify/](http://localhost:8888/spotify/)
 4. **Enjoy !**

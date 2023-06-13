@@ -2,3 +2,4 @@ node_modules
 spotifyCredentials/node_modules
 spotifyCredentials/config.json
 public/spotify/config.js
+package-lock.json

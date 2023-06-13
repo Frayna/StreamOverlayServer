@@ -8,6 +8,10 @@ The server should never serve the client outside of localhost !**
 It's meant to be used as an OBS overlay with all actions on the client, not a server back-end with front-end.  
 You can create multiples overlay widgets by making folders inside the `public` folder.
 
+| Example : |
+|---|
+| <img src="./readmeImg/Spotify overlay.gif"> |
+
 ### Installation
 
 1. **Create an authentificated app on Spotify**

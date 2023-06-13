@@ -2,10 +2,10 @@
 
 ## Security Warning :
 
-**This server should only run on your local machine, the refresh token is accessible by the client !
+**This server should only run on your local machine, the refresh token is accessible by the client !  
 The server should never serve the client outside of localhost !**
 
-It's meant to be used as an OBS overlay with all actions on the client, not a server back-end with front-end.
+It's meant to be used as an OBS overlay with all actions on the client, not a server back-end with front-end.  
 You can create multiples overlay widget by making folders
 
 ### Installation

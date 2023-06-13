@@ -26,7 +26,7 @@ You can create multiples overlay widgets by making folders inside the `public` f
    - Close the server
 3. **Setting up the overlay server**
    - Go to the spotify overlay folder `cd ../public/spotify`
-   - Copy your credentials in the `config.json` file with the refresh token
+   - Copy your credentials in the `config.js` file with the refresh token
    - Go back to the root folder `cd ../..`
    - Install the overlay delivery server `npm i`
 
